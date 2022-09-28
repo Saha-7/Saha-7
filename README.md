@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pritam Saha</h1>
-<h3 align="center">A passionate Open Source Contributor from India</h3>
+
+<h1 align="center">Hi 👋, I am Pritam Saha</h1>
+
+
+[![@saha7's Holopin board](https://holopin.io/api/user/board?user=saha7)](https://holopin.io/@saha7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saha-7" alt="saha-7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saha7pritam" target="blank"><img src="https://img.shields.io/twitter/follow/saha7pritam?logo=twitter&style=for-the-badge" alt="saha7pritam" /></a> </p>
 
@@ -9,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking for **Internship**
 
 - 📝 I regularly write articles on [https://saha7pritam.hashnode.dev/](https://saha7pritam.hashnode.dev/)
 

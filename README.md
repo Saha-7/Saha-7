@@ -10,19 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saha7pritam" target="blank"><img src="https://img.shields.io/twitter/follow/saha7pritam?logo=twitter&style=for-the-badge" alt="saha7pritam" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking for **Internship**
-
-- 📝 I regularly write articles on [https://saha7pritam.hashnode.dev/](https://saha7pritam.hashnode.dev/)
-
-- 💬 Ask me about **Kubernetes & Docker**
-
-- 📫 How to reach me **saha7pritam@gmail.com**
-
-- ⚡ Fun fact **Learn on the Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

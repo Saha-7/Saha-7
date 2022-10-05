@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Pritam
-<h1 align="center">Hi 👋, I am Pritam Saha</h1>
+
 
 
 [![@saha7's Holopin board](https://holopin.io/api/user/board?user=saha7)](https://holopin.io/@saha7)

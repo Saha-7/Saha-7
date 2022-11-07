@@ -2,7 +2,7 @@
 
 
 
-[![@saha7's Holopin board](https://holopin.io/api/user/board?user=saha7)](https://holopin.io/@saha7)
+[![@saha7's Holopin board](https://holopin.me/saha7)](https://holopin.io/@saha7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 

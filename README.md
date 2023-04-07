@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://saha7pritam.hashnode.dev/"><img src="https://icons8.com/icon/HnB8zGOh5xgd/hashnode"/></a>
+            <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
         </td>
         <td>
             <a href="https://colinbut.github.io/">🌐</a>

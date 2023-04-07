@@ -7,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 
 
+- 👨‍💻 All of my Open Source Contributions are listed here :- [ OPEN SOURE CONTRIBUTIONS ](https://github.com/Saha-7/Open-Source-Contributions)
+
+
 <br/>
 
 
@@ -31,11 +34,11 @@
 
 
 
-### Contact me:
+### Connect me with :
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/saha7pritam"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
 
 ### Toolset
 

@@ -16,7 +16,7 @@
 <table>
     <tr>
         <th>My Blogs</th>
-        <th>My Portfolio</th>
+        <th>Portfolio</th>
         <th>My Resume</th>
     </tr>
     <tr>

@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 
 
-- 👨‍💻 All of my Open Source Contributions are listed here :- [ OPEN SOURE CONTRIBUTIONS ](https://github.com/Saha-7/Open-Source-Contributions)
+- 👨‍💻 All of my Open Source Contributions are listed here :- [Repository_Link](https://github.com/Saha-7/Open-Source-Contributions)
 
 
 <br/>
@@ -173,3 +173,25 @@
 
 
 <br/>
+
+
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Saha-7&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>

@@ -82,7 +82,6 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
         </td>
     </tr>

@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![TOPIC](https://img.shields.io/badge/<TOPIC>-<STATUS>-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/open_source-🤍-3DA639.svg)](https://opensource.org/)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 
 # 👨‍💻 My Open Source Contributions listed here :- [Repository_Link](https://github.com/Saha-7/Open-Source-Contributions)
 

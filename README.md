@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Pritam Saha
+<p align="Right"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-
-
-![image](https://user-images.githubusercontent.com/2150306/133788550-ba225c2b-89e0-432e-849d-8d0db6278445.png)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
+<div align="center">
 
 [![TOPIC](https://img.shields.io/badge/CLOUDxNATIVE-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/open_source-🤍-3DA639.svg)](https://opensource.org/)
 
@@ -12,12 +12,22 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)    
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+    
+</div>
 
-# 👨‍💻 My Open Source Contributions listed here :- [LINK](https://github.com/Saha-7/Open-Source-Contributions)
+# 👨‍💻 `My Open Source Contributions listed here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
 
 
+![image](https://user-images.githubusercontent.com/2150306/133788550-ba225c2b-89e0-432e-849d-8d0db6278445.png)
+    
+- 💬 `If you have any question/feedback, please do not hesitate to reach out to me!`
+    
+    
+    
+    
 <br/>
 
 
@@ -47,12 +57,26 @@
 <a href="https://twitter.com/saha7pritam"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> 
 <a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-💬 `If you have any question/feedback, please do not hesitate to reach out to me!`
+
+
+## 🔭 `I'm currently working on`
+
+- Open Source Contributions
+- Jenkins
+- Terraform
+- My next blog
 
 
 
 
-## 💼 Technical Skills & Toolset
+    
+### :writing_hand: `Recent Blog Posts :`
+
+- []()
+- []()
+
+
+## 💼 `Technical Skills & Toolset`
 
 <table>
     <tr>

@@ -21,7 +21,7 @@
     
 </div>
 
-# 👨‍💻 `My Open Source Contributions listed here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
+# 👨‍💻 `All My Open Source Contributions listed here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
 
 
 ![image](https://user-images.githubusercontent.com/2150306/133788550-ba225c2b-89e0-432e-849d-8d0db6278445.png)

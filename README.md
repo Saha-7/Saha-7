@@ -79,6 +79,10 @@
 - [Kubernetes for Absolute Beginners Part 2](https://saha7pritam.hashnode.dev/kubernetes-for-absolute-beginners-part-2)
 
 
+
+<div align="center"> 
+  
+  
 ## 💼 `Technical Skills & Toolset`
 
 <table>
@@ -190,6 +194,7 @@
         </td>
     </tr>
 </table>
+  </div>
 
 
 <br/>

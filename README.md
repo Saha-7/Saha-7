@@ -65,7 +65,7 @@
 ## 🔭 `I'm currently working on`
 
 - Open Source Contributions
-- Jenkins
+- Kubernetes deep dive
 - Terraform
 - My next blog
 

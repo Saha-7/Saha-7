@@ -6,12 +6,7 @@
 
 <div align="center">
 
-[![TOPIC](https://img.shields.io/badge/CLOUDxNATIVE-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)
-
-<a href="https://twitter.com/saha7pritam">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>  
-<a href="https://www.linkedin.com/in/pritam-saha-269704212/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>   
+[![TOPIC](https://img.shields.io/badge/CLOUDxNATIVE-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)  
 </div>
 
 # 👨‍💻 `All My Open Source Contributions list here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)

@@ -8,6 +8,20 @@
 
 [![TOPIC](https://img.shields.io/badge/CLOUDxNATIVE-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)  
 </div>
+  
+  
+  <h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Pritam Saha's profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+  
 
 # 👨‍💻 `All My Open Source Contributions list here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
 

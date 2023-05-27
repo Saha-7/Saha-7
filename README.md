@@ -26,15 +26,19 @@
 # 👨‍💻 `All My Open Source Contributions list here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
 
 
-![image](https://user-images.githubusercontent.com/2150306/133788550-ba225c2b-89e0-432e-849d-8d0db6278445.png)
-    
-- 💬 `If you have any question/feedback, please do not hesitate to reach out to me!`
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+
     
     
     
     
 <br/>
 
+
+<div align="center">
 
 <table>
     <tr>
@@ -54,7 +58,7 @@
         </td>
     </tr>
 </table>
-
+</div>
 
 
 ### Connect me with :

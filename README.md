@@ -65,7 +65,7 @@
 
 <a href="https://twitter.com/saha7pritam"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> 
 <a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://t.me/SAHA7_25"><img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" width="40" height="40"/></a>
+<a href="https://t.me/SAHA7_25"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></a>
 
 
 

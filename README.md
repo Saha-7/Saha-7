@@ -51,7 +51,7 @@
             <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
         </td>
         <td>
-            <a href="https://bio.link/pritamsaha7">🌐</a>
+            <a href="https://linkfree.io/Saha-7">🌐</a>
         </td>
         <td>
             <a href="https://drive.google.com/file/d/1QShQ7XsbZlYl96vCSUSrx-Ui6H353xP4/view?usp=share_link">📃</a>

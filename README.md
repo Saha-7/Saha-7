@@ -207,6 +207,19 @@
 <br/>
 
 
+---
+
+## My Certifications 🏅
+
+<p align="left">
+  <a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/7833f995-d195-43cf-a6a9-5430698d6669/public_url"><img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120" height="117"></a>
+  <a href="https://www.credly.com/badges/fad4e5b3-1671-4895-a7fd-8fb895ca2f7a/public_url"><img src="https://images.credly.com/size/680x680/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" width="117" height="117"></a>
+</p>
+
+---
+
+
 ### My GitHub Stats
 
 <table>

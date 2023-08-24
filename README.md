@@ -23,7 +23,7 @@
 </p>
   
 
-# 👨‍💻 `All My Open Source Contributions list here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
+# 👨‍💻 `All My Open Source Contributions listed here :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
 
 
 <div>

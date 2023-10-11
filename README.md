@@ -216,8 +216,8 @@
 
 <p align="left">
 
-  <a href="https://www.credly.com/badges/01147985-7e04-42f3-a6cf-98a53c228b4e/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/zero-to-merge-cohort-01.png" width="160" height="160">
-  </a><a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/network-foundations-by-solo-io.png" width="150" height="150"></a><a href="https://www.credly.com/badges/6783b695-02f4-48e8-8157-8554bdf28cce/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/fundamentals-for-istio-by-solo-io.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/01147985-7e04-42f3-a6cf-98a53c228b4e/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/zero-to-merge-cohort-01.png" width="200" height="200">
+  </a><a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/network-foundations-by-solo-io.png" width="200" height="200"></a><a href="https://www.credly.com/badges/6783b695-02f4-48e8-8157-8554bdf28cce/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/fundamentals-for-istio-by-solo-io.png" width="200" height="200"></a>
   
 </p>
 

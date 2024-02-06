@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![TOPIC](https://img.shields.io/badge/CloudxNative-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)  
+[![TOPIC](https://img.shields.io/badge/CloudxNative-DevOps-<COLOR>.svg)](https://example.com/) [![FrontEnd Development](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)  [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)
 </div>
   
   

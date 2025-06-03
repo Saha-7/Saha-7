@@ -3,15 +3,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<!--
 <div align="center">
-
 [![TOPIC](https://img.shields.io/badge/CloudxNative-DevOps-<COLOR>.svg)](https://example.com/) [![Open Source Software](https://img.shields.io/badge/Open_Source-🤍-3DA639.svg)](https://opensource.org/)
 </div>
-  
+--> 
   
   <h3 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 

@@ -50,10 +50,10 @@
 <!--         <td>
             <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
         </td> -->
-        <td>
+        <td align="center">
             <a href="https://linkfree.io/Saha-7">🌐</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://drive.google.com/file/d/1vhvVDIsiX0hDm4wE2rbsf0T7nM7uVwwR/view?usp=sharing">📃</a>
         </td>
     </tr>

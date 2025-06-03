@@ -42,14 +42,14 @@
 
 <table>
     <tr>
-        <th>My Blogs</th>
+<!--         <th>My Blogs</th> -->
         <th>Portfolio</th>
         <th>My Resume</th>
     </tr>
     <tr>
-        <td>
+<!--         <td>
             <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
-        </td>
+        </td> -->
         <td>
             <a href="https://linkfree.io/Saha-7">🌐</a>
         </td>

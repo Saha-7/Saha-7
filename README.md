@@ -62,9 +62,16 @@
 
 ### Connect me with :
 
-<a href="https://twitter.com/saha7pritam"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> 
+<a href="https://twitter.com/saha7pritam">
+  <img 
+    width="40" 
+    height="40" 
+    src="https://img.icons8.com/material-outlined/24/twitterx--v2.png" 
+    alt="twitterx--v2"
+    style="border: 2px solid white; border-radius: 8px; background-color: black;"
+  />
+</a>
 <a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://t.me/SAHA7_25"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/></a>
 
 
 <br/>

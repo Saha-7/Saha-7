@@ -50,7 +50,7 @@
             <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
         </td> -->
         <td align="center">
-            <a href="https://linkfree.io/Saha-7">🌐</a>
+            <a href="https://port-folio-eight-orcin.vercel.app/">🌐</a>
         </td>
         <td align="center">
             <a href="https://drive.google.com/file/d/1JlV-fqkC1JwbuL_IjudE5_Upjz2oNiYl/view?usp=sharing">📃</a>

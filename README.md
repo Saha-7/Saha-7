@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Pritam Saha
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Pritam Saha, Welcome to my GitHub Page
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=saha-7&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -17,7 +17,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
   
@@ -98,15 +98,71 @@
             <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7&theme=dark" />
         </td> 
     </tr>
-    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Saha-7&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        <td align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&layout=compact&hide_border=false&&langs_count=10&show_icons=true&theme=transparent" />
         </td>
     </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Future Changes -->
+
+<!--
+
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm <a href = "https://port-folio-eight-orcin.vercel.app/">Pritam</a>, a Software Engineer having 7 months of experience working in various domains like FrontEnd & Full Stack</li>
+  <li>Checkout my GitHub repositories, projects that I am proud of <a href = "https://github.com/ashishps1/awesome-system-design-resources">Dev Finder</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Memory Box</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">SteamiFy</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Hunger Zone</a>.</li>
+  <li>Subscribe to my <a href = "https://bit.ly/amghpr">AlgoMaster Newsletter</a> and get a <b>FREE System Design Interview Handbook</b> in your inbox.</li>
+  <li>Checkout my website <a href = "https://algomaster.io">algomaster.io</a> for Software Enginnering Interview preparation.</li>
+  <li>Checkout my <a href="https://www.youtube.com/@ashishps_1/videos">YouTube Channel</a> for more in-depth content.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> and <a href="https://twitter.com/ashishps_1">X</a> to stay updated.</li>
+</ul>
+
+&nbsp;![](https://komarev.com/ghpvc/?username=Saha-7&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saha-7&show_icons=true&rank_icon=github&locale=en" alt="Saha-7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
+-->

@@ -74,10 +74,9 @@
 <a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 
-<br/>
+<!-- <br/> -->
 
 
----
 
 <!-- ## My Badges & Certifications 🏅
 
@@ -90,9 +89,9 @@
 ---
 
 
-### My GitHub Stats
+<!-- ### My GitHub Stats
 
-<table>
+ <table>
     <tr>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&row=3&column=4&no-bg=true"/>
@@ -101,21 +100,6 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7&theme=dark" />
         </td> 
     </tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   
   <tr>
@@ -126,7 +110,7 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&layout=compact&hide_border=false&&langs_count=10&show_icons=true&theme=transparent" />
         </td>
     </tr>
-</table>
+</table> -->
 
 
 

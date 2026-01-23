@@ -87,22 +87,18 @@
 </p> -->
 
 ---
-
-
-<!-- ### My GitHub Stats
+### My GitHub Stats
 
  <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&theme=darkhub"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7&theme=dark" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7&theme=tokyonight"/>
         </td> 
     </tr>
-
-  
-  <tr>
+    <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Saha-7&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
@@ -110,7 +106,7 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saha-7&layout=compact&hide_border=false&&langs_count=10&show_icons=true&theme=transparent" />
         </td>
     </tr>
-</table> -->
+</table>
 
 
 

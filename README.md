@@ -96,14 +96,14 @@
 ### My GitHub Stats
 
  <table>
-    <tr>
+    <!-- <tr>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=Saha-7&theme=darkhub"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saha-7&theme=tokyonight"/>
         </td> 
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Saha-7&count_private=true&show_icons=true&theme=tokyonight"/>

@@ -83,13 +83,13 @@
 
 
 
-## My Badges & Certifications 🏅
+<!-- ## My Badges & Certifications 🏅
 
 <p align="left">
 
   <a href="https://www.credly.com/badges/01147985-7e04-42f3-a6cf-98a53c228b4e/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/zero-to-merge-cohort-01.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/network-foundations-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6783b695-02f4-48e8-8157-8554bdf28cce/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/fundamentals-for-istio-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6344e50d-77e1-4d89-8b50-4b599f79d215/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/lfc101-inclusive-speaker-orientation.png" width="200" height="200">
   
-</p>
+</p> --->
 
 ---
 ### My GitHub Stats

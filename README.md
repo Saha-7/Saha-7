@@ -65,7 +65,7 @@
 
 ### Connect me with :
 
-<a href="https://twitter.com/saha7pritam">
+<a href="https://x.com/saha7pritam">
   <img 
     width="40" 
     height="40" 

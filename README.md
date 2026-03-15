@@ -147,7 +147,7 @@ Backend-focused Software Engineer building scalable systems and full-stack appli
 
 
 
-# 👨‍💻 `My Open Source Contributions :-` [Link](https://github.com/Saha-7/Open-Source-Contributions)
+# 👨‍💻 `Open Source Contributions :-` [Link](https://github.com/Saha-7/Open-Source-Contributions)
 
 
 

@@ -28,26 +28,24 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 -->
-
-    
-    
+  
     
     
 <br/>
 
-
+<!--
 <div align="center">
 
 <table>
     <tr>
-<!--         <th>My Blogs</th> -->
+         <th>My Blogs</th> 
         <th>Portfolio</th>
         <th>My Resume</th>
     </tr>
     <tr>
-<!--         <td>
+         <td>
             <a href="https://saha7pritam.hashnode.dev/"><img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode-logo.svg"/></a>
-        </td> -->
+        </td>
         <td align="center">
             <a href="https://port-folio-eight-orcin.vercel.app/">🌐</a>
         </td>
@@ -56,42 +54,16 @@
         </td>
     </tr>
 </table>
-</div>
+</div> 
+-->
 
 
-# 👨‍💻 `My Open Source Contributions :-` [LINK](https://github.com/Saha-7/Open-Source-Contributions)
+## 👋 About Me
 
-
-
-### Connect me with :
-
-<a href="https://x.com/saha7pritam">
-  <img 
-    width="40" 
-    height="40" 
-    src="https://img.icons8.com/material-outlined/24/twitterx--v2.png" 
-    alt="twitterx--v2"
-    style="border: 2px solid white; border-radius: 8px; background-color: black;"
-  />
-</a>
-<a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
-
-<!-- <br/> -->
+Backend-focused Software Engineer building scalable systems and full-stack applications.
 
 
 
-
-
-<!-- ## My Badges & Certifications 🏅
-
-<p align="left">
-
-  <a href="https://www.credly.com/badges/01147985-7e04-42f3-a6cf-98a53c228b4e/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/zero-to-merge-cohort-01.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/network-foundations-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6783b695-02f4-48e8-8157-8554bdf28cce/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/fundamentals-for-istio-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6344e50d-77e1-4d89-8b50-4b599f79d215/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/lfc101-inclusive-speaker-orientation.png" width="200" height="200">
-  
-</p> --->
-
----
 ### My GitHub Stats
 
 <div align="center">
@@ -105,6 +77,47 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saha-7&theme=nord_dark">
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## My Badges & Certifications 🏅
+
+<p align="left">
+
+  <a href="https://www.credly.com/badges/01147985-7e04-42f3-a6cf-98a53c228b4e/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/zero-to-merge-cohort-01.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/39731a8d-9d65-42a9-bd91-d228b2a2b82f/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/network-foundations-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6783b695-02f4-48e8-8157-8554bdf28cce/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/fundamentals-for-istio-by-solo-io.png" width="200" height="200"></a> <a href="https://www.credly.com/badges/6344e50d-77e1-4d89-8b50-4b599f79d215/public_url"><img src="https://github.com/Saha-7/Saha-7/blob/main/Badges/lfc101-inclusive-speaker-orientation.png" width="200" height="200">
+  
+</p> --->
+
+
+
+
+
+
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_96q2wQRs6temhSCn?theme=dark)
+
+<div align="left">
+
+## 📈 GitHub Activity Timeline
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_96q2wQRs6temhSCn?view=active&theme=dark)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
+</div>
 
 **Code Cycle**<br>
 
@@ -131,6 +144,25 @@
 
 
 
+
+
+
+# 👨‍💻 `My Open Source Contributions :-` [Link](https://github.com/Saha-7/Open-Source-Contributions)
+
+
+
+### Connect me with :
+
+<a href="https://x.com/saha7pritam">
+  <img 
+    width="40" 
+    height="40" 
+    src="https://img.icons8.com/material-outlined/24/twitterx--v2.png" 
+    alt="twitterx--v2"
+    style="border: 2px solid white; border-radius: 8px; background-color: black;"
+  />
+</a>
+<a href="https://www.linkedin.com/in/pritam-saha-269704212/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 
 

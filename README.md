@@ -60,7 +60,7 @@
 
 ## 👋 About Me
 
-Backend-focused Software Engineer building scalable systems and full-stack applications.
+Software Engineer building scalable systems and full-stack applications.
 
 
 
@@ -105,9 +105,8 @@ Backend-focused Software Engineer building scalable systems and full-stack appli
 
 
 
-![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_96q2wQRs6temhSCn?theme=dark)
 
-<div align="left">
+<div align="center">
 
 
 

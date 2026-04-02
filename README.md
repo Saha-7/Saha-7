@@ -109,15 +109,7 @@ Backend-focused Software Engineer building scalable systems and full-stack appli
 
 <div align="left">
 
-## 📈 GitHub Activity Timeline
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_96q2wQRs6temhSCn?view=active&theme=dark)
 
-<!-- Optional parameters:
-  - view: range | first | active (default: range)
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
-  - width: 400-1200 (default: 800)
--->
-</div>
 
 **Code Cycle**<br>
 
